@@ -21,7 +21,7 @@ function App() {
   let json = { 
     "name": "John",
     "age": 30, 
-    "car": "BMW" 
+    "car": "BMW!!!" 
   }
 
     // convert your object into a JSON-string
